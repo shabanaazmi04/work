@@ -1,0 +1,24 @@
+gmail id
+
+gmail pwd
+
+
+
+
+
+fileinputstream fi=new fileinputstream("path");
+workbook wi= new getworkbook
+sheet s=wi.getsheet
+row r =sheet.getRow(1);
+cell c=r.getcell();
+
+
+
+
+String s="shabana";
+char c[] =s.tocharArray();
+String rev=" ";
+for(int i=ch.length-1;i>=0;i--){
+rev=rev+c[i];
+}
+sop("rev");
